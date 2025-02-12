@@ -1,0 +1,2 @@
+qiskit>=0.44.1
+pycryptodome
